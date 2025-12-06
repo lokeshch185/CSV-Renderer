@@ -1,3 +1,5 @@
+<img width="1899" height="911" alt="image" src="https://github.com/user-attachments/assets/762e3cf9-b6dd-4bc0-b3dd-ca596903d096" />
+
 # DataViewer - Modern Data Visualization Platform
 
 A React-based web application for viewing, analyzing, and managing datasets with a modern, responsive interface built using Vite and Tailwind CSS.
